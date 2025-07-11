@@ -223,7 +223,9 @@ const Index = () => {
                   Сити Лимитс
                 </CardTitle>
                 <CardDescription className="text-gray-600">
-                  Драматический сериал о жизни в Сити 17 и борьбе за выживание
+                  Комедийный сериал о жизни офисных работников в бизнес-центре
+                  "Сити Лимитс", которые ведут расследование мошеннической
+                  конторы "Золотой Фонд"
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -234,7 +236,11 @@ const Index = () => {
                       2024
                     </span>
                     <span className="flex items-center">
-                      <Icon name="Clock" size={16} className="mr-1" />6 эпизодов
+                      <Icon name="Clock" size={16} className="mr-1" />2 сезона
+                    </span>
+                    <span className="flex items-center">
+                      <Icon name="Tag" size={16} className="mr-1" />
+                      Комедия
                     </span>
                   </div>
                   <Button
